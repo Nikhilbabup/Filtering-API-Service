@@ -1,3 +1,10 @@
+/**
+ * Copyright @ NIKHILBABUP
+ * Email: nikhilbabupurakkal97@gmail.com
+ * Author: Nikhil Babu P
+ * 
+*/
+
 const express = require('express');
 const axios = require('axios');
 
